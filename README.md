@@ -94,10 +94,11 @@ _Disclaimer: This program is for educational use only and does not use persisten
 ![Main Menu](https://github.com/julianafoni/Portlogix/blob/main/main%20menu.png?raw=true)
 
 ## 📋 Ship Data Display
-![Main Menu](
+![Main Menu](https://github.com/julianafoni/Portlogix/blob/main/ship%20data%20display.png?raw=true)
 
 ## 🔍 Read Menu – Filter 
-![Main Menu](
+![Main Menu](https://github.com/julianafoni/Portlogix/blob/main/%20read%20menu_filter.png?raw=true)
+
 ---
 
 # Assets
