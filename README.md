@@ -102,4 +102,4 @@ _Disclaimer: This program is for educational use only and does not use persisten
 ---
 
 # Assets
-- 
+- [`portlogix.py`](https://github.com/julianafoni/Portlogix/blob/main/portlogix.py): Main application script containing all CRUD features.
