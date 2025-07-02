@@ -91,7 +91,13 @@ _Disclaimer: This program is for educational use only and does not use persisten
 
 # Documentation
 ## 🧭 Main Menu
-![Main Menu]
+![Main Menu](https://github.com/julianafoni/Portlogix/blob/main/main%20menu.png?raw=true)
+
+## 📋 Ship Data Display
+![Main Menu](
+
+## 🔍 Read Menu – Filter 
+![Main Menu](
 ---
 
 # Assets
