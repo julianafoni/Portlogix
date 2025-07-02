@@ -90,7 +90,8 @@ _Disclaimer: This program is for educational use only and does not use persisten
 ---
 
 # Documentation
-
+## 🧭 Main Menu
+![Main Menu]
 ---
 
 # Assets
